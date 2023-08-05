@@ -12,3 +12,8 @@ for i in range(1,n+1):
     print(i)
 print("Bye")
 print("come again")
+num=[12,67,90,34,87,90]
+for i in num:
+    if(i%2==0):
+        print(i)
+
