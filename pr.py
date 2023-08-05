@@ -8,3 +8,6 @@ if(n%2==0):
 else:
     print("odd number")
 print("thank you")
+for i in range(1,n+1):
+    print(i)
+print("Bye")
