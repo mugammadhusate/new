@@ -13,7 +13,12 @@ for i in range(1,n+1):
 print("Bye")
 print("come again")
 num=[12,67,90,34,87,90]
+print("even no:")
 for i in num:
     if(i%2==0):
+        print(i)
+print("odd no:")
+for i in num:
+    if(i%2!=0):
         print(i)
 
